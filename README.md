@@ -1,22 +1,30 @@
-# Generic Codex for Esports teams
+# Esports Team Codex
+
 ##### Started on Sep 26, 2018 as a [GDoc](https://docs.google.com/document/d/1ptEddQugioJTbaJ1Bgi0gXNhRn0_K9Eh-H87k1Dm8y8/edit?usp=sharing)
-Description of the general principles of the formation and life
-of an esports team. As well as the basic provisions, rules and recommendations.
+
+A comprehensive guide outlining the general principles for the formation and operation of an esports team, including fundamental rules, policies, and recommendations.
+
+## Contents
+
+- [Team Code (English)](en.md)
+- [Team Code (Russian)](ru.md)
+- [Personal (English)](en-personal.md)
+- [Personal (Russian)](ru-personal.md)
 
 ## Versions
-Pretty early version. )))
 
-## Initial authorship
-* Ivan Akamai Danishevskyi
-* Edurard Anokhin
-* Oleg "Boykot" Boiko
-* Pavel "Waro" Romanov
-* Rodion Bryncov
-* Vahan "Mental" Zakaryan
-* Egor "Belony" Dovgyy
+Current version includes comprehensive team and personal codes in both English and Russian.
 
-## TODO:
-* Generic legal deal to hire esports athletes
-* More opensource stuff for esports
+## Initial Authorship
+
+- Ivan "Akamai" Danishevskyi
+- Eduard Anokhin
+- Oleg "Boykot" Boiko
+- Pavel "Waro" Romanov
+- Rodion Bryncov
+- Vahan "Mental" Zakaryan
+- Egor "Belony" Dovgyi
+
+---
 
 GL!
